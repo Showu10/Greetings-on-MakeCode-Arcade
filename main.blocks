@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="h?kodOpMnD)/2*9`|T+y" x="0" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="h?kodOpMnD)/2*9`|T+y" x="0" y="0"><statement name="HANDLER"><block type="gameSplash" id="d}pPaO*XGYaRFXW?5RE~"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="false"></mutation><value name="title"><shadow type="text" id="C_2sv+#_#e#}1C|UF(rM"><field name="TEXT">Hello World!</field></shadow></value></block></statement></block></xml>
